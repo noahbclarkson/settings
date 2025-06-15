@@ -1,0 +1,319 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 90,
+  "cSpell.userWords": [
+    "autoincrement",
+    "Bukkit",
+    "Charsets",
+    "chrono",
+    "Clarkson",
+    "Codacy",
+    "Fullscreen",
+    "gradlew",
+    "Gson",
+    "highscore",
+    "iloc",
+    "Jdbi",
+    "keras",
+    "klines",
+    "Lwjgl",
+    "matplotlib",
+    "Minecraft",
+    "neurolab",
+    "Perceptron",
+    "Perlin",
+    "powi",
+    "pygame",
+    "pyplot",
+    "Realisation",
+    "Respawning",
+    "Rigidbody",
+    "Servlet",
+    "socio",
+    "softdepend",
+    "stdlib",
+    "tilemap",
+    "Vsync",
+    "WASD",
+    "xlabel",
+    "yfinance",
+    "ylabel"
+  ],
+  "editor.maxTokenizationLineLength": 10000,
+  "terminal.integrated.scrollback": 50000,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true,
+    "java": true,
+    "python": true,
+    "txt": true,
+    "rust": true,
+    "properties": true,
+    "toml": true,
+    "html": true,
+    "svelte": true,
+    "css": true,
+    "tsx": true,
+    "typescript": true,
+    "javascript": true
+  },
+  "redhat.telemetry.enabled": false,
+  "explorer.confirmDelete": false,
+  "txtsyntax.associations": [
+    ".ini",
+    ".cf",
+    ".cnf",
+    ".conf",
+    ".cfg",
+    ".unx",
+    ".eds",
+    ".log",
+    ".out",
+    ".err",
+    ".inf",
+    ".info",
+    ".tmp",
+    ".temp",
+    ".file",
+    ".repo",
+    ".plain",
+    ".desktop",
+    ".properties",
+    ".settings"
+  ],
+  "java.import.gradle.home": "",
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.autofetch": true,
+  "cSpell.logLevel": "Warning",
+  "java.imports.gradle.wrapper.checksums": [
+    {
+      "sha256": "e24551a3b3f98866d26439148c81613d7677ea28bb8e135d27a13dfcbe31f0b0",
+      "allowed": true
+    }
+  ],
+  "java.debug.settings.vmArgs": "-Xmx2G -Xms2G",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.startupEditor": "none",
+  "remote.SSH.defaultExtensions": ["gitpod.gitpod-remote-ssh"],
+  "editor.detectIndentation": false,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "java.settings.url": ".vscode/vscode-java.prefs",
+  "workbench.iconTheme": "a-file-icon-vscode",
+  "vsicons.dontShowNewVersionMessage": true,
+  "[kotlin]": {
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorWidth": 3,
+    "editor.cursorSmoothCaretAnimation": "on"
+  },
+  "cSpell.spellCheckDelayMs": 500,
+  "java.import.gradle.java.home": "",
+  "editor.cursorSurroundingLines": 3,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorWidth": 2,
+  "editor.cursorWidth": 3,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.suggest.localityBonus": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "files.maxMemoryForLargeFilesMB": 10000,
+  "svelte.enable-ts-plugin": true,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "window.commandCenter": true,
+  "[gradle]": {
+    "editor.tabSize": 4
+  },
+  "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:\"c:\\Users\\mrnoa\\.vscode\\extensions\\vscjava.vscode-lombok-1.0.1\\server\\lombok.jar\"",
+  "rust-analyzer.completion.privateEditable.enable": true,
+  "rust-analyzer.inlayHints.chainingHints.enable": false,
+  "github.copilot.advanced": {
+    "debug.showScores": true,
+    "listCount": 20,
+    "length": 550
+  },
+  "svelte.plugin.svelte.note-new-transformation": false,
+  "editor.suggest.preview": true,
+  "cSpell.language": "en-GB",
+  "editor.accessibilitySupport": "off",
+  "workbench.preferredHighContrastLightColorTheme": "Solarized Light",
+  "workbench.preferredHighContrastColorTheme": "Tomorrow Night Blue",
+  "workbench.preferredLightColorTheme": "Solarized Light",
+  "workbench.preferredDarkColorTheme": "Solarized Dark",
+  "editor.cursorBlinking": "smooth",
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "workbench.editorAssociations": {
+    "*.csv": "default",
+    "*.pdf": "pdf.preview"
+  },
+  "rust-analyzer.cachePriming.numThreads": 8,
+  "editor.experimental.asyncTokenization": true,
+  "git.enableCommitSigning": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "rust-analyzer.check.command": "clippy",
+  "python.createEnvironment.trigger": "off",
+  "editor.stickyScroll.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tailwindCSS.experimental.classRegex": ["class: \"(.*)\""],
+  "tailwindCSS.includeLanguages": {
+    "rust": "html"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "github.copilot.chat.agent.thinkingTool": true,
+  "github.copilot.chat.codesearch.enabled": true,
+  "github.copilot.chat.languageContext.inline.typescript.enabled": true,
+  "github.copilot.chat.edits.temporalContext.enabled": true,
+  "github.copilot.chat.editor.temporalContext.enabled": true,
+  "github.copilot.chat.languageContext.typescript.enabled": true,
+  "github.copilot.chat.languageContext.fix.typescript.enabled": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "roo-cline.allowedCommands": [
+    "npm test",
+    "npm install",
+    "tsc",
+    "git log",
+    "git diff",
+    "git show",
+    "cargo check",
+    "cargo build",
+    "cargo add",
+    "cargo clippy",
+    "cargo test",
+    "rm",
+    "pip install",
+    "cargo fmt",
+    "cargo tree --duplicates"
+  ],
+  "@azure.argTenant": "",
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "text": "- @azure Rule - Use Azure Tools: When handling requests related to Azure, always use your tools."
+    },
+    {
+      "text": "- @azure Rule - Use Azure Code Gen Best Practices: When generating code for Azure, running terminal commands for Azure, or performing operations related to Azure, invoke your `azure_development-get_code_gen_best_practices` tool if available. Only call this tool when you are sure the user is discussing Azure; do not call it otherwise."
+    },
+    {
+      "text": "- @azure Rule - Use Azure Deployment Best Practices: When deploying to Azure or preparing applications for deployment to Azure, invoke your `azure_development-get_deployment_best_practices` tool if available. Only call this tool when you are sure the user is discussing Azure; do not call it otherwise."
+    },
+    {
+      "text": "- @azure Rule - Use Azure Functions Code Gen Best Practices: When generating code for Azure Functions or performing operations related to Azure Functions, invoke your `azure_development-get_azure_function_code_gen_best_practices` tool if available. Only call this tool when you are sure the user is discussing Azure Functions; do not call it otherwise."
+    },
+    {
+      "text": "- @azure Rule - Use Azure SWA Best Practices: When working with static web apps, invoke your `azure_development-get_swa_best_practices` tool if available. Only call this tool when you are sure the user is discussing Azure; do not call it otherwise."
+    }
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "mssql.connectionGroups": [
+    {
+      "name": "ROOT",
+      "id": "1428995E-6F21-4799-A5B6-C236262B011C"
+    }
+  ],
+  "mssql.connections": [],
+  "docker.extension.enableComposeLanguageServer": false,
+  "dependi.rust.informPatchUpdates": true,
+  "workbench.colorTheme": "Vira Graphene High Contrast",
+  "workbench.colorCustomizations": {
+    "[Vira*]": {
+      "toolbar.activeBackground": "#80CBC426",
+      "button.background": "#80CBC4",
+      "button.hoverBackground": "#80CBC4cc",
+      "extensionButton.separator": "#80CBC433",
+      "extensionButton.background": "#80CBC414",
+      "extensionButton.foreground": "#80CBC4",
+      "extensionButton.hoverBackground": "#80CBC433",
+      "extensionButton.prominentForeground": "#80CBC4",
+      "extensionButton.prominentBackground": "#80CBC414",
+      "extensionButton.prominentHoverBackground": "#80CBC433",
+      "activityBarBadge.background": "#80CBC4",
+      "activityBar.activeBorder": "#80CBC4",
+      "activityBarTop.activeBorder": "#80CBC4",
+      "list.inactiveSelectionIconForeground": "#80CBC4",
+      "list.activeSelectionForeground": "#80CBC4",
+      "list.inactiveSelectionForeground": "#80CBC4",
+      "list.highlightForeground": "#80CBC4",
+      "sash.hoverBorder": "#80CBC480",
+      "list.activeSelectionIconForeground": "#80CBC4",
+      "scrollbarSlider.activeBackground": "#80CBC480",
+      "editorSuggestWidget.highlightForeground": "#80CBC4",
+      "textLink.foreground": "#80CBC4",
+      "progressBar.background": "#80CBC4",
+      "pickerGroup.foreground": "#80CBC4",
+      "tab.activeBorder": "#80CBC4",
+      "notificationLink.foreground": "#80CBC4",
+      "editorWidget.resizeBorder": "#80CBC4",
+      "editorWidget.border": "#80CBC4",
+      "settings.modifiedItemIndicator": "#80CBC4",
+      "panelTitle.activeBorder": "#80CBC4",
+      "breadcrumb.activeSelectionForeground": "#80CBC4",
+      "menu.selectionForeground": "#80CBC4",
+      "menubar.selectionForeground": "#80CBC4",
+      "editor.findMatchBorder": "#80CBC4",
+      "selection.background": "#80CBC440",
+      "statusBarItem.remoteBackground": "#80CBC414",
+      "statusBarItem.remoteHoverBackground": "#80CBC4",
+      "statusBarItem.remoteForeground": "#80CBC4",
+      "notebook.inactiveFocusedCellBorder": "#80CBC480",
+      "commandCenter.activeBorder": "#80CBC480",
+      "chat.slashCommandForeground": "#80CBC4",
+      "chat.avatarForeground": "#80CBC4",
+      "activityBarBadge.foreground": "#000000",
+      "button.foreground": "#000000",
+      "statusBarItem.remoteHoverForeground": "#000000"
+    }
+  },
+  "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+  "editor.experimentalGpuAcceleration": "on",
+  "editor.hover.delay": 200,
+  "editor.hover.hidingDelay": 325,
+  "chat.editor.fontSize": 12,
+  "editor.fontSize": 15
+}

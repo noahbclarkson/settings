@@ -1,0 +1,25 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+shift+oem_7",
+    "command": "-cosmosDB.executeMongoCommand",
+    "when": "editorTextFocus && editorLangId == 'mongo'"
+  },
+  {
+    "key": "ctrl+shift+oem_7",
+    "command": "workbench.action.terminal.newWithProfile",
+    "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
+  },
+  {
+    "key": "ctrl+alt+p",
+    "command": "python.execInTerminal"
+  },
+  {
+    "key": "shift+alt+g",
+    "command": "foam-vscode.show-graph"
+  },
+  {
+    "key": "ctrl+numpad_multiply",
+    "command": "rust-analyzer.runFlycheck"
+  }
+]
